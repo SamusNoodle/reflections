@@ -1,0 +1,14 @@
+The diff let me know what part of the program was removed and added. 
+The removed parts were shown with + and the added parts were shown with -. 
+if I can access to the entire history of the program I will make, I can modify and improve it with a peace of mind.
+This way I don't need to worry about memorizing what and where I have changed in the past. 
+Manual commits can group up all the changes that was necessary for a single logical purpose. When you look up a commit, you can pick up all the changes. But at the same time, a programmer can make a too small or too big commit. 
+A programmer can miss an important logical change and made few commit.
+Automatic commit, on the other hand, can save everything. It can also cause confusion because it doesn't state the meaning of a certain change.
+In programming, such as web pages, you need several files to materialise a single effect. 
+Each file is connected so that a web page functions. 
+In such case, saving a group of files at the same time is useful.
+Git log: use git log to see what kind of changes are made, and to know git id.
+Git diff: use Git diff to see which lines of code are actually modified.
+By knowing that you can go back and fix the bug easily, you don't need to worry about experimenting coding. 
+I would like to use Git for my Aiueo phonics project or other web app project.
