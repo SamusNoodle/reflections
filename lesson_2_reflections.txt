@@ -12,3 +12,6 @@ When you want to try out new ideas while keeping the original features so that e
 
 How do the diagrams help you visualize the branch structure?
 You can clearly see where branches started so that you can tell what changes are made before and after.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When you merge two files, the removed parts are removed and added parts are added to the final merged file. 
