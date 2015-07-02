@@ -6,3 +6,9 @@ The staging area is the place where you add files before make any commit.
 
 How can you use the staging area to make sure you have one commit per logical change?
 Check "git diff" first to see if there are any changes between staging area and working directory. You can choose which file to add to the staging area so that no matter how many changes are made, you can group up the necessary changes together according to the logic and make one commit. Then you can double check "git diff" to see other changes and group up accordingly.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to try out new ideas while keeping the original features so that even if you will not actually like the new trial, you can go back.
+
+How do the diagrams help you visualize the branch structure?
+You can clearly see where branches started so that you can tell what changes are made before and after.
