@@ -3,3 +3,6 @@ You will have a new file called ".git", which will keep all the commits.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is the place where you add files before make any commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Check "git diff" first to see if there are any changes between staging area and working directory. You can choose which file to add to the staging area so that no matter how many changes are made, you can group up the necessary changes together according to the logic and make one commit. Then you can double check "git diff" to see other changes and group up accordingly.
